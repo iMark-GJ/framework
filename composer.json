@@ -19,7 +19,7 @@
     "phpmailer/phpmailer": "~5.2",
     "illuminate/pagination": "~5.2.0",
     "vlucas/phpdotenv": "~2.0",
-    "zeuxisoo/slim-whoops": "~0.4",
+    "zeuxisoo/slim-whoops": "~0.4.0",
     "firebase/php-jwt": "~3.0",
     "aws/aws-sdk-php": "~3.0",
     "gregwar/captcha": "~1.0",
