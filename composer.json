@@ -16,7 +16,8 @@
     "mailgun/mailgun-php": "~1.0",
     "predis/predis": "~1.0",
     "phpmailer/phpmailer": "~5.2",
-    "illuminate/pagination": "~5.2.0",
+    "illuminate/pagination": "~5.2.0",,
+    "illuminate/database": "dev-5.2"
     "vlucas/phpdotenv": "~2.0",
     "zeuxisoo/slim-whoops": "~0.4.0",
     "firebase/php-jwt": "~3.0",
@@ -25,8 +26,7 @@
     "desarrolla2/cache": "~2.0"
   },
   "require-dev": {
-    "phpunit/phpunit": "*",
-    "illuminate/database": "dev-5.2"
+    "phpunit/phpunit": "*"
   },
   "autoload": {
     "classmap": [
