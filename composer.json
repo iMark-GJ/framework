@@ -16,7 +16,7 @@
     "mailgun/mailgun-php": "~1.0",
     "predis/predis": "~1.0",
     "phpmailer/phpmailer": "~5.2",
-    "illuminate/pagination": "~5.2.0",,
+    "illuminate/pagination": "~5.2.0",
     "illuminate/database": "dev-5.2"
     "vlucas/phpdotenv": "~2.0",
     "zeuxisoo/slim-whoops": "~0.4.0",
