@@ -9,7 +9,6 @@
   ],
   "require": {
     "slim/slim": "~3.0",
-    "illuminate/database": "~5.2.0",
     "slim/twig-view": "~2.0",
     "slim/csrf": "~0.5",
     "monolog/monolog": "~1.0",
@@ -26,7 +25,8 @@
     "desarrolla2/cache": "~2.0"
   },
   "require-dev": {
-    "phpunit/phpunit": "*"
+    "phpunit/phpunit": "*",
+    "illuminate/database": "~5.2.0",
   },
   "autoload": {
     "classmap": [
