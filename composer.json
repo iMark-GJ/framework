@@ -37,6 +37,5 @@
     "psr-4": {
       "Pongtan\\": "src/Pongtan"
     }
-  },
-  "minimum-stability": "dev"
+  }
 }
