@@ -1,2 +1,0 @@
-gj.md
-github
